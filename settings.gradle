@@ -1,0 +1,2 @@
+rootProject.name = "Subscription Demo"
+include ':app'
